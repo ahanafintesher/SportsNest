@@ -47,6 +47,45 @@ SportNest is a modern sports facility booking platform that allows users to:
 
 ---
 
+
+## 🛠️ Technology Stack
+
+### Frontend
+| Technology | Purpose |
+|---|---|
+| Next.js 16 | Full-stack React Framework |
+| React 19 | UI Development |
+| JavaScript (ES6+) | Programming Language |
+| Tailwind CSS 4 | Styling |
+| HeroUI 3 | UI Components |
+| Framer Motion | Animations & Transitions |
+| Lucide React | Icons |
+| React Icons | Icon Library |
+| React Hot Toast | Toast Notifications |
+
+### Backend & Database
+| Technology | Purpose |
+|---|---|
+| Next.js API Routes | Backend API Development |
+| MongoDB | NoSQL Database |
+| MongoDB Driver | Database Integration |
+| Better Auth | Authentication |
+| Better Auth Mongo Adapter | MongoDB Authentication Integration |
+
+### Development Tools
+| Technology | Purpose |
+|---|---|
+| ESLint 9 | Code Linting |
+| Babel React Compiler | React Performance Optimization |
+| npm | Package Management |
+| Git & GitHub | Version Control |
+
+### Deployment
+| Technology | Purpose |
+|---|---|
+| Vercel | Hosting & Deployment |
+
+
 ## 📦 NPM Packages Used
 
 ### Dependencies
