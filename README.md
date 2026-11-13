@@ -6,6 +6,10 @@
 
 ---
 
+### Description
+
+SportsNest is a full-stack sports facility booking platform where users can discover sports facilities, check availability, and book their preferred time slots. Facility owners can add and manage their facilities, track bookings, and manage their listings through a dedicated dashboard. The platform features role-based authentication, Google sign-in, and a booking system designed to prevent duplicate slot reservations.
+
 ## 🌐 Live URL
 
 🔗 [https://sports-nest-ten.vercel.app](https://sports-nest-ten.vercel.app)
