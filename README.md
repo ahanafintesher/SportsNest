@@ -158,6 +158,44 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
+
+## 🚧 Challenges Faced During Development
+
+While developing SportsNest, I faced several challenges:
+
+- Implementing real-time sports facility availability and booking functionality.
+- Preventing users from booking the same time slot simultaneously.
+- Managing user and facility owner roles with proper access control.
+- Integrating secure authentication with Google Sign-In.
+- Building a responsive and user-friendly interface for different screen sizes.
+- Managing booking data and maintaining consistency between facilities and bookings.
+
+## 🛠️ Why I Chose These Technologies
+
+| Technology | Why I Used It |
+|------------|---------------|
+| Next.js | To build a fast, SEO-friendly, full-stack React application. |
+| React.js | To create reusable and interactive UI components. |
+| MongoDB | To store users, facilities, and booking information flexibly. |
+| Better Auth | To implement secure authentication and Google Sign-In. |
+| HeroUI | To build modern and reusable UI components. |
+| Tailwind CSS | To create responsive layouts efficiently. |
+| Framer Motion | To add smooth animations and transitions. |
+| Lucide React | To maintain consistent and clean icons. |
+| React Hot Toast | To display user-friendly success and error notifications. |
+| Vercel | To deploy the application and make it accessible online. |
+
+## 💡 Challenges Solved
+
+- **Duplicate Booking Prevention:** Implemented server-side validation to prevent multiple users from booking the same facility and time slot.
+- **Real-Time Availability:** Developed availability-checking functionality so users can see which time slots are available before booking.
+- **Role-Based Access Control:** Separated User and Owner permissions to ensure users can only access authorized features.
+- **Facility Management:** Enabled facility owners to add, update, and remove their listed facilities.
+- **Booking Management:** Implemented functionality for users to view and manage their bookings.
+- **Secure Authentication:** Integrated Better Auth with Google Sign-In for a secure authentication experience.
+- **Data Consistency:** Added booking validation to maintain accurate facility availability and prevent conflicting reservations.
+
+
 ## 👤 Author
 
 **Ahanaf Intesher**
